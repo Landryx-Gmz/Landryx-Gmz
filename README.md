@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 🚀 ¡Bienvenidos a mi Github!
+# 🚀 ¡Bienvenidos a mi GitHub!
 
 ¡Hola! Soy Andy y actualmente estoy estudiando programación. Este repositorio contendrá algunos de mis proyectos y ejercicios de programación, que subiré muy pronto.
 
