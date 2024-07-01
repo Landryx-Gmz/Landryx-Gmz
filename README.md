@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ## Introducción 💡
 
-Este repositorio está destinado a documentar mi viaje de aprendizaje en el mundo de la programación. Aquí compartiré proyectos, ejercicios y ejemplos de código que he creado durante mis estudios. ¡Estén atentos, muy pronto subiré nuevos proyectos! 🎉
+Este repositorio está destinado a documentar mi viaje de aprendizaje en el mundo de la programación. Aquí compartiré proyectos, ejercicios y ejemplos de código que he creado durante mis estudios. ¡Muy pronto subiré nuevos proyectos! 🎉
 
 ## Tecnologías Utilizadas 🛠️
 
