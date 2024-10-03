@@ -41,7 +41,26 @@ En mis proyectos, utilizo varias tecnologías y lenguajes de programación, incl
 
 ## Proyectos 📂
 
-Muy pronto estaré subiendo algunos de mis proyectos de programación. ¡Estén atentos! 🚀
+Aquí te presento algunos de los proyectos que he desarrollado:
+
+### Proyectos en Java:
+
+1. **Login con Roles y Permisos**
+   - Proyecto de una aplicación de login con interfaz gráfica, que permite la carga de usuarios con roles de Administrador y Usuario.
+   - Incluye un CRUD completo y utiliza JPA para interactuar con una base de datos MySQL.
+
+2. **Concesionario de Automóviles**
+   - Aplicación de gestión de concesionarios que permite realizar CRUD de automóviles.
+   - Implementada con JPA y MySQL para la persistencia de datos.
+
+3. **Peluquería Canina**
+   - Sistema para la gestión de una peluquería canina con operaciones CRUD sobre los clientes y sus mascotas.
+   - Implementado con JPA y base de datos MySQL.
+
+### Proyecto en HTML:
+
+1. **Página Web de Academia**
+   - Un sitio web sencillo para una academia, construido con HTML y estilizado con CSS, utilizando Flexbox para el diseño responsivo.
 
 ### Ejemplo de proyectos futuros:
 
